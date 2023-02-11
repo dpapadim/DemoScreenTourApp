@@ -14,4 +14,5 @@ Libraries:
 Icons:
 1) Downloaded the suitable layout icons from: https://fonts.google.com/icons?selected=Material+Icons
 
-
+Refactors:
+1) Refactored to MVP (no architecture previously)
