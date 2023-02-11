@@ -1,0 +1,15 @@
+
+<resources>
+<string name="app_name">DemoApp</string>
+<string name="audio_tours">Audio tours</string>
+<string name="_360_images">360º images</string>
+<string name="per_person">per person</string>
+<string name="price">price</string>
+<string name="audio_tour_in_3_languages">Audio tour in: 3 Languages</string>
+<string name="from">From</string>
+<string name="minutes">minutes</string>
+<string name="duration">Duration:</string>
+<string name="rating">rating</string>
+<string name="rating_count">rating count</string>
+<string name="count">count</string>
+</resources>
