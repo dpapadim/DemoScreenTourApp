@@ -12,6 +12,6 @@ Libraries:
 2) For image handling i've used https://square.github.io/picasso/
 
 Icons:
-1) Downloaded the appropriate icons from: https://fonts.google.com/icons?selected=Material+Icons
+1) Downloaded the suitable layout icons from: https://fonts.google.com/icons?selected=Material+Icons
 
 
