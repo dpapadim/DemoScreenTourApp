@@ -1,5 +1,6 @@
 # DemoScreenTourApp
 This is a minimalistic demo project for a tour app, containing a single screen.
+
 Language: Kotlin
 Architecture: None
 Libraries:
